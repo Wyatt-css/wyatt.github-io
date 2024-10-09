@@ -1,0 +1,63 @@
+head, body {
+    background-color: darkorchid;
+}
+h1 {
+    font-family: fantasy;
+    color: #f5f495;   
+} 
+h2 {
+    color: #dd688f;
+}
+p {
+    font-family: fantasy;
+    color:#f5f495;
+    font-size:25px;
+}  
+td, th {
+    font-family: Arial, Helvetica, sans-serif;
+    color:azure;
+}
+div {
+    text-align:center;
+}
+.ball {
+    height:200px;
+    width:200px;
+}
+#one {
+    filter: invert(100%);
+}
+#two {
+    filter: saturate(100%);
+}
+#three {
+    filter: invert(100%);
+}
+#four {
+    filter: saturate(100%);
+}
+#five {
+    filter: invert(100%);
+}
+#six {
+    filter: saturate(100%);
+}
+#seven {
+    filter: invert(100%);
+}
+#eight {
+    filter: saturate(100%);
+}
+#nine {
+    filter: invert(100%);
+}
+table {
+margin-left: auto;
+margin-right: auto;
+}
+th {
+    background-color: #44429e;
+}
+td {
+    background-color:#6e6cb0 ;
+}
